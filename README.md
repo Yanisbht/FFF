@@ -14,15 +14,14 @@ L'objectif principal est de créer un site informatif et interactif comparant le
 - **Joris Brusa**
   
 ## Lien
-- Lien du site héberger : 
-- Github : 
+- Lien du site héberger : (https://fffworldcup.alwaysdata.net/)
 
 ## Répartition des tâches 
 
 - Chef de projet : **Marwan Seghiri**
 - Maquétiste/designer : **Mehdi Zenati**
 - Développeur front : **Alexandre Hamon, Théo Chaput, Yanis Buhot, Joris Brusa, Marwan Seghiri et Mehdi Zenati**
-- Hébergement : **Joris Brusa**
+- Hébergement : **Alexandre Hamon**
 
 
 ## Réalisation du projet
@@ -89,6 +88,7 @@ Le site est structuré comme suit :
 - **CSS**
 - **Bootstrap**
 - **GitHub** pour le suivi et le partage du code.
+- **Hebergement** réalisé sur AlwaysData
 
 
 ---
